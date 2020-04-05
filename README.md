@@ -4,3 +4,4 @@
 - day2 - wizualizacja (dataset road_sings)
 - day3 - pierwszy model sieci konwolucyjnej CNN + uruchomienie tensorboard
 - day4 - modele sieci konwolucyjnych CNN
+- day5 - sieć konwolucyjna CNN + hyperopt
